@@ -1,0 +1,23 @@
+{
+    "title" : "Tiffin Exprass",
+    "description" : "Tiffins express is a Place where technology and food are Combined. ",
+    "them" : {
+        "bgPink" : "#ffb3ff",
+        "borderPink" : "#ff00ff"
+    },
+    "servicesCardDirection" : "row",
+    "services" : [
+        {
+            "title" : "Servises any wher" ,
+            "description" : "we Provide dilevry sher you need"
+        },
+        {
+            "title" : "maintain Highgin" ,
+            "description" : "It Purely Cooking clianly  "
+        },
+        {
+            "title" : "Good Quelity " ,
+            "description" : "ve provide foor like home's Food"
+        }
+    ]
+}
